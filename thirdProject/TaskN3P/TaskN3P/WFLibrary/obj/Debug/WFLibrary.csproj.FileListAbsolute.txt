@@ -1,0 +1,10 @@
+D:\Projects\PMA32-2\PZ\TaskN3P\WFLibrary\bin\Debug\WFLibrary.dll
+D:\Projects\PMA32-2\PZ\TaskN3P\WFLibrary\bin\Debug\WFLibrary.pdb
+D:\Projects\PMA32-2\PZ\TaskN3P\WFLibrary\obj\Debug\WFLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\PMA32-2\PZ\TaskN3P\WFLibrary\obj\Debug\WFLibrary.dll
+D:\Projects\PMA32-2\PZ\TaskN3P\WFLibrary\obj\Debug\WFLibrary.pdb
+C:\Users\Lyubomyr\Documents\TaskN3P\TaskN3P\WFLibrary\bin\Debug\WFLibrary.dll
+C:\Users\Lyubomyr\Documents\TaskN3P\TaskN3P\WFLibrary\bin\Debug\WFLibrary.pdb
+C:\Users\Lyubomyr\Documents\TaskN3P\TaskN3P\WFLibrary\obj\Debug\WFLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomyr\Documents\TaskN3P\TaskN3P\WFLibrary\obj\Debug\WFLibrary.dll
+C:\Users\Lyubomyr\Documents\TaskN3P\TaskN3P\WFLibrary\obj\Debug\WFLibrary.pdb

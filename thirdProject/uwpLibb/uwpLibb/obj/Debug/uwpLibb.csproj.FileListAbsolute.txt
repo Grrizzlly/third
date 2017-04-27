@@ -1,0 +1,16 @@
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\bin\Debug\uwpLibb.dll
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\bin\Debug\uwpLibb.pdb
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\bin\Debug\uwpLibb.pri
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\uwpLibb.dll
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\uwpLibb.pdb
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\priconfig.xml
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\layout.resfiles
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\resources.resfiles
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\pri.resfiles
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\qualifiers.txt
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lyubomyr\Documents\github\uwpLibb\uwpLibb\obj\Debug\MultipleQualifiersPerDimensionFound.txt
